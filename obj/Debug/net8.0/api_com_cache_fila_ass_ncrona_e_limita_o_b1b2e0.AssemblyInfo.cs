@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("api_com_cache_fila_ass_ncrona_e_limita_o_b1b2e0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cab19de0b37300cc6734052568ee575c8c588ecd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9ad69f97325c4a0f32958adafa2fb9e38cc71d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("api_com_cache_fila_ass_ncrona_e_limita_o_b1b2e0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("api_com_cache_fila_ass_ncrona_e_limita_o_b1b2e0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
